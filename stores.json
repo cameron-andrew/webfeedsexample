@@ -1,0 +1,366 @@
+{
+  "feed_name": "STORE_BRANCHES",
+  "updated_at": "2026-03-02T00:00:00Z",
+  "stores": [
+    {
+      "store_code": "ABC101",
+      "store_name": "North Sydney",
+      "opening_hours": {
+        "mon": "7:00 AM - 5:00 PM",
+        "tue": "7:00 AM - 5:00 PM",
+        "wed": "7:00 AM - 5:00 PM",
+        "thu": "7:00 AM - 5:00 PM",
+        "fri": "7:00 AM - 5:00 PM",
+        "sat": "8:00 AM - 2:00 PM",
+        "sun": "Closed"
+      },
+      "timber_specialist": {
+        "name": "Liam Carter",
+        "short_description": "Decking and structural timber specialist.",
+        "image_url": "https://example.com/images/specialists/liam-carter.jpg"
+      }
+    },
+    {
+      "store_code": "ABC102",
+      "store_name": "Parramatta",
+      "opening_hours": {
+        "mon": "7:00 AM - 5:30 PM",
+        "tue": "7:00 AM - 5:30 PM",
+        "wed": "7:00 AM - 5:30 PM",
+        "thu": "7:00 AM - 5:30 PM",
+        "fri": "7:00 AM - 5:30 PM",
+        "sat": "8:00 AM - 3:00 PM",
+        "sun": "Closed"
+      },
+      "timber_specialist": {
+        "name": "Mia Thompson",
+        "short_description": "Hardwood cladding and feature wall expert.",
+        "image_url": "https://example.com/images/specialists/mia-thompson.jpg"
+      }
+    },
+    {
+      "store_code": "ABC103",
+      "store_name": "Chatswood",
+      "opening_hours": {
+        "mon": "7:00 AM - 5:00 PM",
+        "tue": "7:00 AM - 5:00 PM",
+        "wed": "7:00 AM - 5:00 PM",
+        "thu": "7:00 AM - 7:00 PM",
+        "fri": "7:00 AM - 5:00 PM",
+        "sat": "8:00 AM - 2:00 PM",
+        "sun": "Closed"
+      },
+      "timber_specialist": {
+        "name": "Noah Evans",
+        "short_description": "Pine framing and outdoor build solutions specialist.",
+        "image_url": "https://example.com/images/specialists/noah-evans.jpg"
+      }
+    },
+    {
+      "store_code": "ABC104",
+      "store_name": "Penrith",
+      "opening_hours": {
+        "mon": "6:30 AM - 5:00 PM",
+        "tue": "6:30 AM - 5:00 PM",
+        "wed": "6:30 AM - 5:00 PM",
+        "thu": "6:30 AM - 5:00 PM",
+        "fri": "6:30 AM - 5:00 PM",
+        "sat": "8:00 AM - 1:00 PM",
+        "sun": "Closed"
+      },
+      "timber_specialist": {
+        "name": "Sophie Reed",
+        "short_description": "Custom cut timber and sheet product specialist.",
+        "image_url": "https://example.com/images/specialists/sophie-reed.jpg"
+      }
+    },
+    {
+      "store_code": "ABC105",
+      "store_name": "Liverpool",
+      "opening_hours": {
+        "mon": "7:00 AM - 5:30 PM",
+        "tue": "7:00 AM - 5:30 PM",
+        "wed": "7:00 AM - 5:30 PM",
+        "thu": "7:00 AM - 5:30 PM",
+        "fri": "7:00 AM - 5:30 PM",
+        "sat": "8:00 AM - 2:00 PM",
+        "sun": "Closed"
+      },
+      "timber_specialist": {
+        "name": "Ethan Bell",
+        "short_description": "Structural LVL and engineered timber advisor.",
+        "image_url": "https://example.com/images/specialists/ethan-bell.jpg"
+      }
+    },
+    {
+      "store_code": "ABC106",
+      "store_name": "Blacktown",
+      "opening_hours": {
+        "mon": "7:00 AM - 5:00 PM",
+        "tue": "7:00 AM - 5:00 PM",
+        "wed": "7:00 AM - 5:00 PM",
+        "thu": "7:00 AM - 5:00 PM",
+        "fri": "7:00 AM - 5:00 PM",
+        "sat": "8:30 AM - 2:30 PM",
+        "sun": "Closed"
+      },
+      "timber_specialist": {
+        "name": "Ava Collins",
+        "short_description": "Cladding profile and weatherboard specialist.",
+        "image_url": "https://example.com/images/specialists/ava-collins.jpg"
+      }
+    },
+    {
+      "store_code": "ABC107",
+      "store_name": "Castle Hill",
+      "opening_hours": {
+        "mon": "7:00 AM - 5:00 PM",
+        "tue": "7:00 AM - 5:00 PM",
+        "wed": "7:00 AM - 5:00 PM",
+        "thu": "7:00 AM - 6:00 PM",
+        "fri": "7:00 AM - 5:00 PM",
+        "sat": "8:00 AM - 2:00 PM",
+        "sun": "Closed"
+      },
+      "timber_specialist": {
+        "name": "Jack Foster",
+        "short_description": "Decking boards and external finishes specialist.",
+        "image_url": "https://example.com/images/specialists/jack-foster.jpg"
+      }
+    },
+    {
+      "store_code": "ABC108",
+      "store_name": "Brookvale",
+      "opening_hours": {
+        "mon": "7:00 AM - 4:30 PM",
+        "tue": "7:00 AM - 4:30 PM",
+        "wed": "7:00 AM - 4:30 PM",
+        "thu": "7:00 AM - 4:30 PM",
+        "fri": "7:00 AM - 4:30 PM",
+        "sat": "8:00 AM - 1:30 PM",
+        "sun": "Closed"
+      },
+      "timber_specialist": {
+        "name": "Ella Hayes",
+        "short_description": "Joinery timber and interior lining specialist.",
+        "image_url": "https://example.com/images/specialists/ella-hayes.jpg"
+      }
+    },
+    {
+      "store_code": "ABC109",
+      "store_name": "Wollongong",
+      "opening_hours": {
+        "mon": "7:00 AM - 5:00 PM",
+        "tue": "7:00 AM - 5:00 PM",
+        "wed": "7:00 AM - 5:00 PM",
+        "thu": "7:00 AM - 5:00 PM",
+        "fri": "7:00 AM - 5:00 PM",
+        "sat": "8:00 AM - 2:00 PM",
+        "sun": "Closed"
+      },
+      "timber_specialist": {
+        "name": "Lucas Ward",
+        "short_description": "Treated pine and retaining wall timber expert.",
+        "image_url": "https://example.com/images/specialists/lucas-ward.jpg"
+      }
+    },
+    {
+      "store_code": "ABC110",
+      "store_name": "Newcastle",
+      "opening_hours": {
+        "mon": "6:30 AM - 5:00 PM",
+        "tue": "6:30 AM - 5:00 PM",
+        "wed": "6:30 AM - 5:00 PM",
+        "thu": "6:30 AM - 5:00 PM",
+        "fri": "6:30 AM - 5:00 PM",
+        "sat": "8:00 AM - 1:30 PM",
+        "sun": "Closed"
+      },
+      "timber_specialist": {
+        "name": "Harper Scott",
+        "short_description": "Framing packs and construction timber consultant.",
+        "image_url": "https://example.com/images/specialists/harper-scott.jpg"
+      }
+    },
+    {
+      "store_code": "ABC111",
+      "store_name": "Central Coast",
+      "opening_hours": {
+        "mon": "7:00 AM - 5:00 PM",
+        "tue": "7:00 AM - 5:00 PM",
+        "wed": "7:00 AM - 5:00 PM",
+        "thu": "7:00 AM - 5:00 PM",
+        "fri": "7:00 AM - 5:00 PM",
+        "sat": "8:00 AM - 2:00 PM",
+        "sun": "Closed"
+      },
+      "timber_specialist": {
+        "name": "Grace Murphy",
+        "short_description": "Pergola and outdoor project timber specialist.",
+        "image_url": "https://example.com/images/specialists/grace-murphy.jpg"
+      }
+    },
+    {
+      "store_code": "ABC112",
+      "store_name": "Canberra",
+      "opening_hours": {
+        "mon": "7:00 AM - 5:30 PM",
+        "tue": "7:00 AM - 5:30 PM",
+        "wed": "7:00 AM - 5:30 PM",
+        "thu": "7:00 AM - 5:30 PM",
+        "fri": "7:00 AM - 5:30 PM",
+        "sat": "8:00 AM - 2:00 PM",
+        "sun": "Closed"
+      },
+      "timber_specialist": {
+        "name": "Benjamin Price",
+        "short_description": "Premium hardwood flooring and trim specialist.",
+        "image_url": "https://example.com/images/specialists/benjamin-price.jpg"
+      }
+    },
+    {
+      "store_code": "ABC113",
+      "store_name": "Geelong",
+      "opening_hours": {
+        "mon": "7:00 AM - 5:00 PM",
+        "tue": "7:00 AM - 5:00 PM",
+        "wed": "7:00 AM - 5:00 PM",
+        "thu": "7:00 AM - 5:00 PM",
+        "fri": "7:00 AM - 5:00 PM",
+        "sat": "8:00 AM - 2:30 PM",
+        "sun": "Closed"
+      },
+      "timber_specialist": {
+        "name": "Chloe King",
+        "short_description": "Feature timber wall panels and mouldings expert.",
+        "image_url": "https://example.com/images/specialists/chloe-king.jpg"
+      }
+    },
+    {
+      "store_code": "ABC114",
+      "store_name": "Ballarat",
+      "opening_hours": {
+        "mon": "7:00 AM - 4:30 PM",
+        "tue": "7:00 AM - 4:30 PM",
+        "wed": "7:00 AM - 4:30 PM",
+        "thu": "7:00 AM - 4:30 PM",
+        "fri": "7:00 AM - 4:30 PM",
+        "sat": "8:00 AM - 1:00 PM",
+        "sun": "Closed"
+      },
+      "timber_specialist": {
+        "name": "William Hunt",
+        "short_description": "Farm and rural timber solutions specialist.",
+        "image_url": "https://example.com/images/specialists/william-hunt.jpg"
+      }
+    },
+    {
+      "store_code": "ABC115",
+      "store_name": "Bendigo",
+      "opening_hours": {
+        "mon": "7:00 AM - 5:00 PM",
+        "tue": "7:00 AM - 5:00 PM",
+        "wed": "7:00 AM - 5:00 PM",
+        "thu": "7:00 AM - 5:00 PM",
+        "fri": "7:00 AM - 5:00 PM",
+        "sat": "8:00 AM - 2:00 PM",
+        "sun": "Closed"
+      },
+      "timber_specialist": {
+        "name": "Lily Cooper",
+        "short_description": "Timber fencing and landscape edging specialist.",
+        "image_url": "https://example.com/images/specialists/lily-cooper.jpg"
+      }
+    },
+    {
+      "store_code": "ABC116",
+      "store_name": "Adelaide",
+      "opening_hours": {
+        "mon": "7:00 AM - 5:30 PM",
+        "tue": "7:00 AM - 5:30 PM",
+        "wed": "7:00 AM - 5:30 PM",
+        "thu": "7:00 AM - 5:30 PM",
+        "fri": "7:00 AM - 5:30 PM",
+        "sat": "8:00 AM - 2:30 PM",
+        "sun": "Closed"
+      },
+      "timber_specialist": {
+        "name": "Henry Brooks",
+        "short_description": "Structural pine and treated timber expert.",
+        "image_url": "https://example.com/images/specialists/henry-brooks.jpg"
+      }
+    },
+    {
+      "store_code": "ABC117",
+      "store_name": "Perth",
+      "opening_hours": {
+        "mon": "7:00 AM - 5:00 PM",
+        "tue": "7:00 AM - 5:00 PM",
+        "wed": "7:00 AM - 5:00 PM",
+        "thu": "7:00 AM - 5:00 PM",
+        "fri": "7:00 AM - 5:00 PM",
+        "sat": "8:00 AM - 2:00 PM",
+        "sun": "Closed"
+      },
+      "timber_specialist": {
+        "name": "Zoe Bennett",
+        "short_description": "Jarrah and native hardwood product specialist.",
+        "image_url": "https://example.com/images/specialists/zoe-bennett.jpg"
+      }
+    },
+    {
+      "store_code": "ABC118",
+      "store_name": "Fremantle",
+      "opening_hours": {
+        "mon": "7:00 AM - 4:30 PM",
+        "tue": "7:00 AM - 4:30 PM",
+        "wed": "7:00 AM - 4:30 PM",
+        "thu": "7:00 AM - 4:30 PM",
+        "fri": "7:00 AM - 4:30 PM",
+        "sat": "8:00 AM - 1:30 PM",
+        "sun": "Closed"
+      },
+      "timber_specialist": {
+        "name": "Samuel Green",
+        "short_description": "Marine-grade and external timber specialist.",
+        "image_url": "https://example.com/images/specialists/samuel-green.jpg"
+      }
+    },
+    {
+      "store_code": "ABC119",
+      "store_name": "Hobart",
+      "opening_hours": {
+        "mon": "7:30 AM - 5:00 PM",
+        "tue": "7:30 AM - 5:00 PM",
+        "wed": "7:30 AM - 5:00 PM",
+        "thu": "7:30 AM - 5:00 PM",
+        "fri": "7:30 AM - 5:00 PM",
+        "sat": "8:30 AM - 1:30 PM",
+        "sun": "Closed"
+      },
+      "timber_specialist": {
+        "name": "Isla Turner",
+        "short_description": "Tasmanian oak and interior finishing specialist.",
+        "image_url": "https://example.com/images/specialists/isla-turner.jpg"
+      }
+    },
+    {
+      "store_code": "ABC120",
+      "store_name": "Launceston",
+      "opening_hours": {
+        "mon": "7:30 AM - 4:30 PM",
+        "tue": "7:30 AM - 4:30 PM",
+        "wed": "7:30 AM - 4:30 PM",
+        "thu": "7:30 AM - 4:30 PM",
+        "fri": "7:30 AM - 4:30 PM",
+        "sat": "8:30 AM - 1:00 PM",
+        "sun": "Closed"
+      },
+      "timber_specialist": {
+        "name": "Oscar Phillips",
+        "short_description": "Renovation timber packs and trim specialist.",
+        "image_url": "https://example.com/images/specialists/oscar-phillips.jpg"
+      }
+    }
+  ]
+}
