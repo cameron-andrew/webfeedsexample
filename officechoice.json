@@ -1,0 +1,180 @@
+{
+  "feed_name": "OFFICE_CHOICE",
+  "updated_at": "2026-03-02T00:00:00Z",
+  "locations": [
+    {
+      "store_code": "LOC001",
+      "store_name": "Office Choice Lakes",
+      "website": "https://lakes.officechoice.com.au/",
+      "phone_numbers": [
+        "02 4351 1299",
+        "02 4351 1301"
+      ],
+      "email": "tuggerah@officechoice.example.com",
+      "address": {
+        "line_1": "94 Pacific Highway",
+        "suburb": "Tuggerah",
+        "state": "NSW",
+        "postcode": "2259",
+        "country": "Australia",
+        "full": "94 Pacific Highway, Tuggerah, NSW, 2259"
+      }
+    },
+    {
+      "store_code": "LOC002",
+      "store_name": "Office Choice NSW",
+      "website": "https://nsw.officechoice.com.au/",
+      "phone_numbers": [
+        "02 4322 1100"
+      ],
+      "email": "gosford@officechoice.example.com",
+      "address": {
+        "line_1": "21 Mann Street",
+        "suburb": "Gosford",
+        "state": "NSW",
+        "postcode": "2250",
+        "country": "Australia",
+        "full": "21 Mann Street, Gosford, NSW, 2250"
+      }
+    },
+    {
+      "store_code": "LOC003",
+      "store_name": "Office Choice Erina",
+      "website": "https://erina.officechoice.com.au/",
+      "phone_numbers": [
+        "02 4365 2200",
+        "02 4365 2201"
+      ],
+      "email": "erina@officechoice.example.com",
+      "address": {
+        "line_1": "8 Karalta Road",
+        "suburb": "Erina",
+        "state": "NSW",
+        "postcode": "2250",
+        "country": "Australia",
+        "full": "8 Karalta Road, Erina, NSW, 2250"
+      }
+    },
+    {
+      "store_code": "LOC004",
+      "store_name": "Office Choice Wyong",
+      "website": "https://wyong.officechoice.com.au/",
+      "phone_numbers": [
+        "02 4353 4400"
+      ],
+      "email": "wyong@officechoice.example.com",
+      "address": {
+        "line_1": "44 Alison Road",
+        "suburb": "Wyong",
+        "state": "NSW",
+        "postcode": "2259",
+        "country": "Australia",
+        "full": "44 Alison Road, Wyong, NSW, 2259"
+      }
+    },
+    {
+      "store_code": "LOC005",
+      "store_name": "Office Choice The Entrance",
+      "website": "https://theentrance.officechoice.com.au/",
+      "phone_numbers": [
+        "02 4332 5500"
+      ],
+      "email": "entrance@officechoice.example.com",
+      "address": {
+        "line_1": "12 Coral Street",
+        "suburb": "The Entrance",
+        "state": "NSW",
+        "postcode": "2261",
+        "country": "Australia",
+        "full": "12 Coral Street, The Entrance, NSW, 2261"
+      }
+    },
+    {
+      "store_code": "LOC006",
+      "store_name": "Office Choice Bateau Bay",
+      "website": "https://bateaubay.officechoice.com.au/",
+      "phone_numbers": [
+        "02 4334 6600",
+        "02 4334 6602"
+      ],
+      "email": "bateau@officechoice.example.com",
+      "address": {
+        "line_1": "7 Bay Village Road",
+        "suburb": "Bateau Bay",
+        "state": "NSW",
+        "postcode": "2261",
+        "country": "Australia",
+        "full": "7 Bay Village Road, Bateau Bay, NSW, 2261"
+      }
+    },
+    {
+      "store_code": "LOC007",
+      "store_name": "Office Choice Woy Woy",
+      "website": "https://woywoy.officechoice.com.au/",
+      "phone_numbers": [
+        "02 4341 7700"
+      ],
+      "email": "woywoy@officechoice.example.com",
+      "address": {
+        "line_1": "39 Blackwall Road",
+        "suburb": "Woy Woy",
+        "state": "NSW",
+        "postcode": "2256",
+        "country": "Australia",
+        "full": "39 Blackwall Road, Woy Woy, NSW, 2256"
+      }
+    },
+    {
+      "store_code": "LOC008",
+      "store_name": "Office Choice Umina",
+      "website": "https://umina.officechoice.com.au/",
+      "phone_numbers": [
+        "02 4342 8800"
+      ],
+      "email": "umina@officechoice.example.com",
+      "address": {
+        "line_1": "102 West Street",
+        "suburb": "Umina Beach",
+        "state": "NSW",
+        "postcode": "2257",
+        "country": "Australia",
+        "full": "102 West Street, Umina Beach, NSW, 2257"
+      }
+    },
+    {
+      "store_code": "LOC009",
+      "store_name": "Office Choice Kincumber",
+      "website": "https://kincumber.officechoice.com.au/",
+      "phone_numbers": [
+        "02 4369 9900",
+        "02 4369 9901"
+      ],
+      "email": "kincumber@officechoice.example.com",
+      "address": {
+        "line_1": "5 Avoca Drive",
+        "suburb": "Kincumber",
+        "state": "NSW",
+        "postcode": "2251",
+        "country": "Australia",
+        "full": "5 Avoca Drive, Kincumber, NSW, 2251"
+      }
+    },
+    {
+      "store_code": "LOC010",
+      "store_name": "Office Choice Toukley",
+      "website": "https://toukley.officechoice.com.au/",
+      "phone_numbers": [
+        "02 4396 1010"
+      ],
+      "email": "toukley@officechoice.example.com",
+      "address": {
+        "line_1": "66 Main Road",
+        "suburb": "Toukley",
+        "state": "NSW",
+        "postcode": "2263",
+        "country": "Australia",
+        "full": "66 Main Road, Toukley, NSW, 2263"
+      }
+    }
+  ]
+}
