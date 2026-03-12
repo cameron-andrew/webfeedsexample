@@ -1,0 +1,163 @@
+{
+  "feed_name": "QBD_STORES",
+  "updated_at": "2026-03-13T00:00:00Z",
+  "stores": [
+    {
+      "store_code": "QBD001",
+      "store_name": "Brisbane City",
+      "website": "https://www.qbd.com.au/locations/brisbane-city",
+      "phone_numbers": [
+        "(07) 3229 4567"
+      ],
+      "email": "brisbanecity@qbd.com.au",
+      "address": {
+        "line_1": "Shop 115, Level E Uptown Queen St",
+        "suburb": "Brisbane",
+        "state": "QLD",
+        "postcode": "4000",
+        "country": "Australia",
+        "full": "Shop 115, Level E Uptown Queen St, Brisbane, QLD, 4000"
+      },
+      "trading_hours": {
+        "monday": "8:15 AM - 6:00 PM",
+        "tuesday": "8:15 AM - 6:00 PM",
+        "wednesday": "8:15 AM - 6:00 PM",
+        "thursday": "8:15 AM - 6:00 PM",
+        "friday": "8:15 AM - 9:00 PM",
+        "saturday": "8:45 AM - 5:30 PM",
+        "sunday": "9:00 AM - 5:00 PM"
+      }
+    },
+    {
+      "store_code": "QBD002",
+      "store_name": "Chermside",
+      "website": "https://www.qbd.com.au/locations/chermside",
+      "phone_numbers": [
+        "(07) 3359 1201",
+        "(07) 3359 1202"
+      ],
+      "email": "chermside@qbd.com.au",
+      "address": {
+        "line_1": "Westfield Chermside, Shop 275, Gympie Road",
+        "suburb": "Chermside",
+        "state": "QLD",
+        "postcode": "4032",
+        "country": "Australia",
+        "full": "Westfield Chermside, Shop 275, Gympie Road, Chermside, QLD, 4032"
+      },
+      "trading_hours": {
+        "monday": "9:00 AM - 5:30 PM",
+        "tuesday": "9:00 AM - 5:30 PM",
+        "wednesday": "9:00 AM - 5:30 PM",
+        "thursday": "9:00 AM - 9:00 PM",
+        "friday": "9:00 AM - 5:30 PM",
+        "saturday": "9:00 AM - 5:00 PM",
+        "sunday": "10:00 AM - 5:00 PM"
+      }
+    },
+    {
+      "store_code": "QBD003",
+      "store_name": "Carindale",
+      "website": "https://www.qbd.com.au/locations/carindale",
+      "phone_numbers": [
+        "(07) 3398 4410"
+      ],
+      "email": "carindale@qbd.com.au",
+      "address": {
+        "line_1": "Westfield Carindale, Shop 1245, Creek Road",
+        "suburb": "Carindale",
+        "state": "QLD",
+        "postcode": "4152",
+        "country": "Australia",
+        "full": "Westfield Carindale, Shop 1245, Creek Road, Carindale, QLD, 4152"
+      },
+      "trading_hours": {
+        "monday": "9:00 AM - 5:30 PM",
+        "tuesday": "9:00 AM - 5:30 PM",
+        "wednesday": "9:00 AM - 5:30 PM",
+        "thursday": "9:00 AM - 9:00 PM",
+        "friday": "9:00 AM - 5:30 PM",
+        "saturday": "9:00 AM - 5:00 PM",
+        "sunday": "10:00 AM - 5:00 PM"
+      }
+    },
+    {
+      "store_code": "QBD004",
+      "store_name": "Indooroopilly",
+      "website": "https://www.qbd.com.au/locations/indooroopilly",
+      "phone_numbers": [
+        "(07) 3878 2090"
+      ],
+      "email": "indooroopilly@qbd.com.au",
+      "address": {
+        "line_1": "Indooroopilly Shopping Centre, Shop 313, Moggill Road",
+        "suburb": "Indooroopilly",
+        "state": "QLD",
+        "postcode": "4068",
+        "country": "Australia",
+        "full": "Indooroopilly Shopping Centre, Shop 313, Moggill Road, Indooroopilly, QLD, 4068"
+      },
+      "trading_hours": {
+        "monday": "9:00 AM - 5:30 PM",
+        "tuesday": "9:00 AM - 5:30 PM",
+        "wednesday": "9:00 AM - 5:30 PM",
+        "thursday": "9:00 AM - 9:00 PM",
+        "friday": "9:00 AM - 5:30 PM",
+        "saturday": "9:00 AM - 5:00 PM",
+        "sunday": "10:00 AM - 5:00 PM"
+      }
+    },
+    {
+      "store_code": "QBD005",
+      "store_name": "Garden City",
+      "website": "https://www.qbd.com.au/locations/garden-city",
+      "phone_numbers": [
+        "(07) 3349 8722"
+      ],
+      "email": "gardencity@qbd.com.au",
+      "address": {
+        "line_1": "Westfield Mt Gravatt, Shop 2032, Kessels Road",
+        "suburb": "Upper Mount Gravatt",
+        "state": "QLD",
+        "postcode": "4122",
+        "country": "Australia",
+        "full": "Westfield Mt Gravatt, Shop 2032, Kessels Road, Upper Mount Gravatt, QLD, 4122"
+      },
+      "trading_hours": {
+        "monday": "9:00 AM - 5:30 PM",
+        "tuesday": "9:00 AM - 5:30 PM",
+        "wednesday": "9:00 AM - 5:30 PM",
+        "thursday": "9:00 AM - 9:00 PM",
+        "friday": "9:00 AM - 5:30 PM",
+        "saturday": "9:00 AM - 5:00 PM",
+        "sunday": "10:00 AM - 5:00 PM"
+      }
+    },
+    {
+      "store_code": "QBD006",
+      "store_name": "Toowong",
+      "website": "https://www.qbd.com.au/locations/toowong",
+      "phone_numbers": [
+        "(07) 3371 9884"
+      ],
+      "email": "toowong@qbd.com.au",
+      "address": {
+        "line_1": "Toowong Village, Shop 12, Sherwood Road",
+        "suburb": "Toowong",
+        "state": "QLD",
+        "postcode": "4066",
+        "country": "Australia",
+        "full": "Toowong Village, Shop 12, Sherwood Road, Toowong, QLD, 4066"
+      },
+      "trading_hours": {
+        "monday": "9:00 AM - 5:30 PM",
+        "tuesday": "9:00 AM - 5:30 PM",
+        "wednesday": "9:00 AM - 5:30 PM",
+        "thursday": "9:00 AM - 9:00 PM",
+        "friday": "9:00 AM - 5:30 PM",
+        "saturday": "9:00 AM - 5:00 PM",
+        "sunday": "10:00 AM - 4:00 PM"
+      }
+    }
+  ]
+}
