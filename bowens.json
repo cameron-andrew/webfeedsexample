@@ -1,0 +1,276 @@
+{
+  "feed_name": "STORE_LOCATIONS",
+  "updated_at": "2026-03-25T00:00:00Z",
+  "stores": [
+    {
+      "store_code": "STORE001",
+      "store_name": "Central City",
+      "website": "https://www.example.com/stores/central-city",
+      "slug": "central-city",
+      "contact": {
+        "phone": "(02) 9000 1001",
+        "fax": "(02) 9000 1011",
+        "email": "centralcity@example.com"
+      },
+      "address": {
+        "line_1": "100 Main Street",
+        "suburb": "Central City",
+        "state": "NSW",
+        "postcode": "2000",
+        "country": "Australia",
+        "full": "100 Main Street, Central City, NSW, 2000"
+      },
+      "trading_hours": {
+        "monday": "8:30 AM - 5:30 PM",
+        "tuesday": "8:30 AM - 5:30 PM",
+        "wednesday": "8:30 AM - 5:30 PM",
+        "thursday": "8:30 AM - 7:00 PM",
+        "friday": "8:30 AM - 5:30 PM",
+        "saturday": "9:00 AM - 5:00 PM",
+        "sunday": "10:00 AM - 4:00 PM"
+      },
+      "holiday_hours": [
+        {
+          "name": "Public Holiday A",
+          "date": "2026-04-06",
+          "hours_display": "10:00 AM - 4:00 PM"
+        },
+        {
+          "name": "Public Holiday B",
+          "date": "2026-04-25",
+          "hours_display": "Closed"
+        }
+      ],
+      "description_title": "Store Highlight - Central City",
+      "description_text": "Central City is an example location used to demonstrate the recommended web feed structure for store-based email content.",
+      "meta": {
+        "meta_title": "Central City",
+        "meta_description": "Find store information for Central City, including address, trading hours, contact details and more.",
+        "places_id": "PLACE_ID_001"
+      },
+      "branch_manager": {
+        "name": null,
+        "email": null,
+        "phone": null
+      },
+      "cta_label": "View store",
+      "cta_url": "https://www.example.com/stores/central-city"
+    },
+    {
+      "store_code": "STORE002",
+      "store_name": "Northpoint",
+      "website": "https://www.example.com/stores/northpoint",
+      "slug": "northpoint",
+      "contact": {
+        "phone": "(03) 9000 1002",
+        "fax": "(03) 9000 1012",
+        "email": "northpoint@example.com"
+      },
+      "address": {
+        "line_1": "250 Market Avenue",
+        "suburb": "Northpoint",
+        "state": "VIC",
+        "postcode": "3000",
+        "country": "Australia",
+        "full": "250 Market Avenue, Northpoint, VIC, 3000"
+      },
+      "trading_hours": {
+        "monday": "9:00 AM - 5:30 PM",
+        "tuesday": "9:00 AM - 5:30 PM",
+        "wednesday": "9:00 AM - 5:30 PM",
+        "thursday": "9:00 AM - 8:00 PM",
+        "friday": "9:00 AM - 5:30 PM",
+        "saturday": "9:00 AM - 5:00 PM",
+        "sunday": "10:00 AM - 5:00 PM"
+      },
+      "holiday_hours": [
+        {
+          "name": "Public Holiday A",
+          "date": "2026-04-06",
+          "hours_display": "11:00 AM - 3:00 PM"
+        },
+        {
+          "name": "Public Holiday B",
+          "date": "2026-04-25",
+          "hours_display": "Closed"
+        }
+      ],
+      "description_title": "Store Highlight - Northpoint",
+      "description_text": "Northpoint is a fictional location included as part of a reusable sample feed for store location personalisation.",
+      "meta": {
+        "meta_title": "Northpoint",
+        "meta_description": "Find store information for Northpoint, including address, trading hours, contact details and more.",
+        "places_id": "PLACE_ID_002"
+      },
+      "branch_manager": {
+        "name": null,
+        "email": null,
+        "phone": null
+      },
+      "cta_label": "View store",
+      "cta_url": "https://www.example.com/stores/northpoint"
+    },
+    {
+      "store_code": "STORE003",
+      "store_name": "Riverside",
+      "website": "https://www.example.com/stores/riverside",
+      "slug": "riverside",
+      "contact": {
+        "phone": "(07) 9000 1003",
+        "fax": "(07) 9000 1013",
+        "email": "riverside@example.com"
+      },
+      "address": {
+        "line_1": "18 River Road",
+        "suburb": "Riverside",
+        "state": "QLD",
+        "postcode": "4000",
+        "country": "Australia",
+        "full": "18 River Road, Riverside, QLD, 4000"
+      },
+      "trading_hours": {
+        "monday": "9:00 AM - 5:30 PM",
+        "tuesday": "9:00 AM - 5:30 PM",
+        "wednesday": "9:00 AM - 5:30 PM",
+        "thursday": "9:00 AM - 7:00 PM",
+        "friday": "9:00 AM - 5:30 PM",
+        "saturday": "9:00 AM - 5:00 PM",
+        "sunday": "10:00 AM - 4:00 PM"
+      },
+      "holiday_hours": [
+        {
+          "name": "Public Holiday A",
+          "date": "2026-04-06",
+          "hours_display": "10:00 AM - 2:00 PM"
+        },
+        {
+          "name": "Public Holiday B",
+          "date": "2026-04-25",
+          "hours_display": "Closed"
+        }
+      ],
+      "description_title": "Store Highlight - Riverside",
+      "description_text": "Riverside is a sample location demonstrating how store details can be structured for dynamic email content.",
+      "meta": {
+        "meta_title": "Riverside",
+        "meta_description": "Find store information for Riverside, including address, trading hours, contact details and more.",
+        "places_id": "PLACE_ID_003"
+      },
+      "branch_manager": {
+        "name": null,
+        "email": null,
+        "phone": null
+      },
+      "cta_label": "View store",
+      "cta_url": "https://www.example.com/stores/riverside"
+    },
+    {
+      "store_code": "STORE004",
+      "store_name": "Lakeside",
+      "website": "https://www.example.com/stores/lakeside",
+      "slug": "lakeside",
+      "contact": {
+        "phone": "(08) 9000 1004",
+        "fax": "(08) 9000 1014",
+        "email": "lakeside@example.com"
+      },
+      "address": {
+        "line_1": "75 Lakeview Drive",
+        "suburb": "Lakeside",
+        "state": "SA",
+        "postcode": "5000",
+        "country": "Australia",
+        "full": "75 Lakeview Drive, Lakeside, SA, 5000"
+      },
+      "trading_hours": {
+        "monday": "8:00 AM - 5:00 PM",
+        "tuesday": "8:00 AM - 5:00 PM",
+        "wednesday": "8:00 AM - 5:00 PM",
+        "thursday": "8:00 AM - 6:00 PM",
+        "friday": "8:00 AM - 5:00 PM",
+        "saturday": "9:00 AM - 4:00 PM",
+        "sunday": "Closed"
+      },
+      "holiday_hours": [
+        {
+          "name": "Public Holiday A",
+          "date": "2026-04-06",
+          "hours_display": "9:00 AM - 1:00 PM"
+        },
+        {
+          "name": "Public Holiday B",
+          "date": "2026-04-25",
+          "hours_display": "Closed"
+        }
+      ],
+      "description_title": "Store Highlight - Lakeside",
+      "description_text": "Lakeside is included as a generic example of a store record formatted for use in Klaviyo web feeds.",
+      "meta": {
+        "meta_title": "Lakeside",
+        "meta_description": "Find store information for Lakeside, including address, trading hours, contact details and more.",
+        "places_id": "PLACE_ID_004"
+      },
+      "branch_manager": {
+        "name": null,
+        "email": null,
+        "phone": null
+      },
+      "cta_label": "View store",
+      "cta_url": "https://www.example.com/stores/lakeside"
+    },
+    {
+      "store_code": "STORE005",
+      "store_name": "Westfield",
+      "website": "https://www.example.com/stores/westfield",
+      "slug": "westfield",
+      "contact": {
+        "phone": "(08) 9000 1005",
+        "fax": "(08) 9000 1015",
+        "email": "westfield@example.com"
+      },
+      "address": {
+        "line_1": "420 Western Highway",
+        "suburb": "Westfield",
+        "state": "WA",
+        "postcode": "6000",
+        "country": "Australia",
+        "full": "420 Western Highway, Westfield, WA, 6000"
+      },
+      "trading_hours": {
+        "monday": "8:30 AM - 5:30 PM",
+        "tuesday": "8:30 AM - 5:30 PM",
+        "wednesday": "8:30 AM - 5:30 PM",
+        "thursday": "8:30 AM - 8:00 PM",
+        "friday": "8:30 AM - 5:30 PM",
+        "saturday": "9:00 AM - 5:00 PM",
+        "sunday": "10:00 AM - 4:00 PM"
+      },
+      "holiday_hours": [
+        {
+          "name": "Public Holiday A",
+          "date": "2026-04-06",
+          "hours_display": "10:00 AM - 3:00 PM"
+        },
+        {
+          "name": "Public Holiday B",
+          "date": "2026-04-25",
+          "hours_display": "Closed"
+        }
+      ],
+      "description_title": "Store Highlight - Westfield",
+      "description_text": "Westfield is a fictional example used to show how a multi-store feed can support dynamic store messaging in email.",
+      "meta": {
+        "meta_title": "Westfield",
+        "meta_description": "Find store information for Westfield, including address, trading hours, contact details and more.",
+        "places_id": "PLACE_ID_005"
+      },
+      "branch_manager": {
+        "name": null,
+        "email": null,
+        "phone": null
+      },
+      "cta_label": "View store",
+      "cta_url": "https://www.example.com/stores/westfield"
+    }
+  ]
+}
