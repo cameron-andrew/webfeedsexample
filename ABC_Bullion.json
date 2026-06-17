@@ -1,0 +1,314 @@
+{
+  "feed_name": "ABC_BULLION_LIVE_PRICE_LIST",
+  "updated_at": "2026-06-17T13:36:00+10:00",
+  "updated_display": "17 Jun 2026 13:36",
+  "timezone": "Australia/Sydney",
+  "currency": "AUD",
+  "source_url": "https://www.abcbullion.com.au/products-pricing/full-price-list",
+  "exchange_rate": {
+    "pair": "USD_TO_AUD",
+    "rate": 0.7069,
+    "display": "USD -> AUD -0.7069"
+  },
+  "metals": [
+    {
+      "metal_code": "gold",
+      "metal_name": "Gold",
+      "spot_price": {
+        "label": "Spot price per troy ounce",
+        "aud": 6145.25,
+        "aud_display": "$6,145.25",
+        "usd": 4343.46,
+        "usd_display": "$4,343.46",
+        "unit": "1 oz"
+      },
+      "sections": [
+        {
+          "section_code": "abc_bullion_gold",
+          "section_name": "ABC Bullion Gold",
+          "products": [
+            {
+              "product_code": "GOLD_POOL_ALLOCATED_1OZ",
+              "product_name": "1oz Gold Bullion Pool Allocated",
+              "metal": "Gold",
+              "brand": "ABC Bullion",
+              "weight": "1oz",
+              "purity": null,
+              "selling_price": 6298.90,
+              "selling_price_display": "$6,298.90",
+              "buy_back_price": 6011.30,
+              "buy_back_price_display": "$6,011.30",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            },
+            {
+              "product_code": "ABC_GOLD_CAST_BAR_0_5OZ_9999",
+              "product_name": "1/2oz ABC Gold Cast Bar 9999",
+              "metal": "Gold",
+              "brand": "ABC Bullion",
+              "weight": "1/2oz",
+              "purity": "9999",
+              "selling_price": 3232.10,
+              "selling_price_display": "$3,232.10",
+              "buy_back_price": 2953.30,
+              "buy_back_price_display": "$2,953.30",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            },
+            {
+              "product_code": "ABC_GOLD_CAST_BAR_1OZ_9999",
+              "product_name": "1oz ABC Gold Cast Bar 9999",
+              "metal": "Gold",
+              "brand": "ABC Bullion",
+              "weight": "1oz",
+              "purity": "9999",
+              "selling_price": 6431.30,
+              "selling_price_display": "$6,431.30",
+              "buy_back_price": 5906.60,
+              "buy_back_price_display": "$5,906.60",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            },
+            {
+              "product_code": "ABC_GOLD_CAST_LUONG_37_5G_9999",
+              "product_name": "37.5gram ABC Gold Cast Luong 9999",
+              "metal": "Gold",
+              "brand": "ABC Bullion",
+              "weight": "37.5gram",
+              "purity": "9999",
+              "selling_price": 7726.80,
+              "selling_price_display": "$7,726.80",
+              "buy_back_price": 7121.00,
+              "buy_back_price_display": "$7,121.00",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            },
+            {
+              "product_code": "TAEL_ABC_GOLD_37_5G_9999",
+              "product_name": "Tael ABC Gold 37.5gram 9999",
+              "metal": "Gold",
+              "brand": "ABC Bullion",
+              "weight": "37.5gram",
+              "purity": "9999",
+              "selling_price": 7736.80,
+              "selling_price_display": "$7,736.80",
+              "buy_back_price": 7121.00,
+              "buy_back_price_display": "$7,121.00",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            },
+            {
+              "product_code": "ABC_GOLD_CAST_BAR_50G_9999",
+              "product_name": "50gram ABC Gold Cast Bar 9999",
+              "metal": "Gold",
+              "brand": "ABC Bullion",
+              "weight": "50gram",
+              "purity": "9999",
+              "selling_price": 10285.90,
+              "selling_price_display": "$10,285.90",
+              "buy_back_price": 9494.80,
+              "buy_back_price_display": "$9,494.80",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            },
+            {
+              "product_code": "ABC_GOLD_CAST_BAR_2OZ_9999",
+              "product_name": "2oz ABC Gold Cast Bar 9999",
+              "metal": "Gold",
+              "brand": "ABC Bullion",
+              "weight": "2oz",
+              "purity": "9999",
+              "selling_price": 12780.50,
+              "selling_price_display": "$12,780.50",
+              "buy_back_price": 11813.10,
+              "buy_back_price_display": "$11,813.10",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            },
+            {
+              "product_code": "ABC_GOLD_CAST_BAR_100G_9999",
+              "product_name": "100gram ABC Gold Cast Bar 9999",
+              "metal": "Gold",
+              "brand": "ABC Bullion",
+              "weight": "100gram",
+              "purity": "9999",
+              "selling_price": 20517.80,
+              "selling_price_display": "$20,517.80",
+              "buy_back_price": 18989.60,
+              "buy_back_price_display": "$18,989.60",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            },
+            {
+              "product_code": "ABC_GOLD_CAST_BAR_5OZ_9999",
+              "product_name": "5oz ABC Gold Cast Bar 9999",
+              "metal": "Gold",
+              "brand": "ABC Bullion",
+              "weight": "5oz",
+              "purity": "9999",
+              "selling_price": 31881.30,
+              "selling_price_display": "$31,881.30",
+              "buy_back_price": 29532.80,
+              "buy_back_price_display": "$29,532.80",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            },
+            {
+              "product_code": "ABC_GOLD_CAST_BAR_250G_9999",
+              "product_name": "250gram ABC Gold Cast Bar 9999",
+              "metal": "Gold",
+              "brand": "ABC Bullion",
+              "weight": "250gram",
+              "purity": "9999",
+              "selling_price": 51197.80,
+              "selling_price_display": "$51,197.80",
+              "buy_back_price": 47477.00,
+              "buy_back_price_display": "$47,477.00",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            },
+            {
+              "product_code": "ABC_GOLD_CAST_BAR_10OZ_9999",
+              "product_name": "10oz ABC Gold Cast Bar 9999",
+              "metal": "Gold",
+              "brand": "ABC Bullion",
+              "weight": "10oz",
+              "purity": "9999",
+              "selling_price": 63687.50,
+              "selling_price_display": "$63,687.50",
+              "buy_back_price": 59065.60,
+              "buy_back_price_display": "$59,065.60",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            },
+            {
+              "product_code": "ABC_GOLD_CAST_BAR_500G_9999",
+              "product_name": "500gram ABC Gold Cast Bar 9999",
+              "metal": "Gold",
+              "brand": "ABC Bullion",
+              "weight": "500gram",
+              "purity": "9999",
+              "selling_price": 101254.60,
+              "selling_price_display": "$101,254.60",
+              "buy_back_price": 94948.00,
+              "buy_back_price_display": "$94,948.00",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            },
+            {
+              "product_code": "ABC_GOLD_CAST_BAR_1KG_9999",
+              "product_name": "1kg ABC Gold Cast Bar 9999",
+              "metal": "Gold",
+              "brand": "ABC Bullion",
+              "weight": "1kg",
+              "purity": "9999",
+              "selling_price": 201521.30,
+              "selling_price_display": "$201,521.30",
+              "buy_back_price": 189896.00,
+              "buy_back_price_display": "$189,896.00",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            },
+            {
+              "product_code": "ABC_BULLION_GOLD_BAR_400OZ_999",
+              "product_name": "400oz ABC Bullion Gold Bar 99.99%",
+              "metal": "Gold",
+              "brand": "ABC Bullion",
+              "weight": "400oz",
+              "purity": "99.99%",
+              "selling_price": 2544095.80,
+              "selling_price_display": "$2,544,095.80",
+              "buy_back_price": 2362624.90,
+              "buy_back_price_display": "$2,362,624.90",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            }
+          ]
+        },
+        {
+          "section_code": "royal_mint_tablets",
+          "section_name": "Royal Mint Tablets",
+          "products": [
+            {
+              "product_code": "BRITANNIA_GOLD_MINTED_BAR_1G_9999",
+              "product_name": "1gram Britannia Gold Minted bar 9999",
+              "metal": "Gold",
+              "brand": "Royal Mint",
+              "weight": "1gram",
+              "purity": "9999",
+              "selling_price": 253.00,
+              "selling_price_display": "$253.00",
+              "buy_back_price": 190.20,
+              "buy_back_price_display": "$190.20",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            },
+            {
+              "product_code": "BRITANNIA_GOLD_MINTED_BAR_5G_9999",
+              "product_name": "5gram Britannia Gold Minted bar 9999",
+              "metal": "Gold",
+              "brand": "Royal Mint",
+              "weight": "5gram",
+              "purity": "9999",
+              "selling_price": 1155.70,
+              "selling_price_display": "$1,155.70",
+              "buy_back_price": 949.80,
+              "buy_back_price_display": "$949.80",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            },
+            {
+              "product_code": "BRITANNIA_GOLD_MINTED_BAR_10G_9999",
+              "product_name": "10gram Britannia Gold Minted bar 9999",
+              "metal": "Gold",
+              "brand": "Royal Mint",
+              "weight": "10gram",
+              "purity": "9999",
+              "selling_price": 2261.80,
+              "selling_price_display": "$2,261.80",
+              "buy_back_price": 1899.00,
+              "buy_back_price_display": "$1,899.00",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            },
+            {
+              "product_code": "BRITANNIA_GOLD_MINTED_BAR_20G_9999",
+              "product_name": "20gram Britannia Gold Minted bar 9999",
+              "metal": "Gold",
+              "brand": "Royal Mint",
+              "weight": "20gram",
+              "purity": "9999",
+              "selling_price": 4193.60,
+              "selling_price_display": "$4,193.60",
+              "buy_back_price": 3797.90,
+              "buy_back_price_display": "$3,797.90",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            },
+            {
+              "product_code": "BRITANNIA_GOLD_MINTED_BAR_1OZ_9999",
+              "product_name": "1oz Britannia Gold Minted bar 9999",
+              "metal": "Gold",
+              "brand": "Royal Mint",
+              "weight": "1oz",
+              "purity": "9999",
+              "selling_price": 6449.80,
+              "selling_price_display": "$6,449.80",
+              "buy_back_price": 5906.60,
+              "buy_back_price_display": "$5,906.60",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            },
+            {
+              "product_code": "BRITANNIA_GOLD_MINTED_BAR_50G_9999",
+              "product_name": "50gram Britannia Gold Minted bar 9999",
+              "metal": "Gold",
+              "brand": "Royal Mint",
+              "weight": "50gram",
+              "purity": "9999",
+              "selling_price": 10328.90,
+              "selling_price_display": "$10,328.90",
+              "buy_back_price": 9494.80,
+              "buy_back_price_display": "$9,494.80",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            },
+            {
+              "product_code": "BRITANNIA_GOLD_MINTED_BAR_100G_9999",
+              "product_name": "100g Britannia Gold Minted bar 9999",
+              "metal": "Gold",
+              "brand": "Royal Mint",
+              "weight": "100g",
+              "purity": "9999",
+              "selling_price": 20586.30,
+              "selling_price_display": "$20,586.30",
+              "buy_back_price": 18989.60,
+              "buy_back_price_display": "$18,989.60",
+              "url": "https://www.abcbullion.com.au/products-pricing/full-price-list"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
